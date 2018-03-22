@@ -1,0 +1,8 @@
+poster
+/pkg/
+/.idea/
+/src/
+
+*.log
+
+*.txt
